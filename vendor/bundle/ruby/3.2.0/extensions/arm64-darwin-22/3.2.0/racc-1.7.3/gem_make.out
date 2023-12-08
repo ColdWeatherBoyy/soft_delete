@@ -1,0 +1,18 @@
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-hhgn6y sitelibdir\=./.gem.20231208-8393-hhgn6y clean
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-hhgn6y sitelibdir\=./.gem.20231208-8393-hhgn6y
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-hhgn6y sitelibdir\=./.gem.20231208-8393-hhgn6y install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231208-8393-hhgn6y/racc
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-hhgn6y sitelibdir\=./.gem.20231208-8393-hhgn6y clean

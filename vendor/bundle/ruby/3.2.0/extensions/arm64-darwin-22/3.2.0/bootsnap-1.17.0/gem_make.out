@@ -1,0 +1,22 @@
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-bah3fg sitelibdir\=./.gem.20231208-8393-bah3fg clean
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-bah3fg sitelibdir\=./.gem.20231208-8393-bah3fg
+compiling bootsnap.c
+bootsnap.c:822:10: warning: unused variable 'contents' [-Wunused-variable]
+  char * contents = NULL;
+         ^
+1 warning generated.
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-bah3fg sitelibdir\=./.gem.20231208-8393-bah3fg install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231208-8393-bah3fg/bootsnap
+
+current directory: /Users/eliassz/Documents/Projects/Ruby/pacer-pro/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231208-8393-bah3fg sitelibdir\=./.gem.20231208-8393-bah3fg clean
